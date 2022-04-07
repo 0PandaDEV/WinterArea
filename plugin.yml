@@ -1,0 +1,26 @@
+name: WinterArea
+version: 1.0
+author: PandaDEV
+main: ch.pandadev.Main
+commands:
+  heal:
+    permission: winterarea.heal
+  speed:
+    permission: winterarea.setspeed
+  spawn:
+    permission: winterarea.setspawn
+    aliases: ["setspawn"]
+  lobby:
+    aliases: [ "l" ]
+  hub:
+  warp:
+    permission: winterarea.warp
+  gm:
+    permission: winterarea.gamemode
+  gamemode:
+    permission: winterarea.gamemode
+  coins:
+  setcoins:
+    permission: winterarea.setcoins
+  world:
+    permission: winterarea.createworld
